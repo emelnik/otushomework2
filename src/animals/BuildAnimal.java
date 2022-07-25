@@ -50,7 +50,7 @@ public class BuildAnimal {
 
                     case EXIT:
                         System.out.println("выход");
-                        System.exit(1);
+                        System.exit(0);
                 }
 
             } catch (IllegalArgumentException e){

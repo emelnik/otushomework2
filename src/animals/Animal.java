@@ -80,11 +80,5 @@ public abstract class Animal {
                 + age + " " + old + ", я вешу - "
                 + weight + " кг" + ", мой цвет - " + color;
     }
-
-//    public static void main(String[] args) {
-//        Animal a = new Animal();
-//        System.out.println(a.toString());
-//    }
-
 }
 
